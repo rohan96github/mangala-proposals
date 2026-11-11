@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Environment variables & secrets (NEVER push to GitHub)
+.env
+backend/.env
+*.env.local
+
+# Build outputs
+dist/
+dist-ssr/
+*.local
+
+# Cache & Vite
+.vite/
+.cache/
+
+# Uploads (ignore uploaded files, keep template)
+backend/uploads/*
+!backend/uploads/Profiles_Import_Template.xlsx
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
