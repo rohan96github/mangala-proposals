@@ -65,3 +65,4 @@ Open **`http://localhost:5173`** in your browser.
 - **URL:** `http://localhost:5173/admin/login`
 - **Username / Email:** `admin@youremail.com` (or `root`)
 - **Password:** `Rohan@123`
+
